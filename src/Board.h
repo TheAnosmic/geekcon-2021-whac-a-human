@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Hole.cpp"
+#include "Hole.h"
 #include "Holes.h"
 
 class Board

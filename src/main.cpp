@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include <DebugLog.h>
 
-#include "Board.cpp"
-#include "Sensors.cpp"
+#include "Board.h"
+#include "Sensors.h"
 
 void setup() {
   LOG_SET_LEVEL(DebugLogLevel::TRACE);

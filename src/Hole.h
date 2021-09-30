@@ -2,7 +2,7 @@
 
 #include <Arduino.h>
 
-#include "ArmPosition.cpp"
+#include "ArmPosition.h"
 
 class Hole
 {
